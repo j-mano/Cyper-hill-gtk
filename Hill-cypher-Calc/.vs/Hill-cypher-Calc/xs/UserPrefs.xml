@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{01C79C3B-DAAF-40E5-B037-DECFA3468930}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hill-cypher-Calc FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cypher-hill-Calc-Libary/Functions/TextToChiper.cs">
+    <Files>
+      <File FileName="Hill-cypher-Calc/Program.cs" Line="1" Column="1" />
+      <File FileName="Hill-cypher-Calc/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Cypher-hill-Calc-Libary/Functions/TextToChiper.cs" Line="49" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hill-cypher-Calc" expanded="True">
+            <Node name="Hill-cypher-Calc" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cypher-hill-Calc-Libary FirstBuild="True" />
+</Properties>

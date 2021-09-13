@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hill-cypher-Calc", "Hill-cypher-Calc\Hill-cypher-Calc.csproj", "{01C79C3B-DAAF-40E5-B037-DECFA3468930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cypher-hill-Calc-Libary", "Cypher-hill-Calc-Libary\Cypher-hill-Calc-Libary.csproj", "{B034D2C4-C7A1-49FE-BCB0-DDB3DDD42700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C79C3B-DAAF-40E5-B037-DECFA3468930}.Debug|x86.ActiveCfg = Debug|x86
+		{01C79C3B-DAAF-40E5-B037-DECFA3468930}.Debug|x86.Build.0 = Debug|x86
+		{01C79C3B-DAAF-40E5-B037-DECFA3468930}.Release|x86.ActiveCfg = Release|x86
+		{01C79C3B-DAAF-40E5-B037-DECFA3468930}.Release|x86.Build.0 = Release|x86
+		{B034D2C4-C7A1-49FE-BCB0-DDB3DDD42700}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B034D2C4-C7A1-49FE-BCB0-DDB3DDD42700}.Debug|x86.Build.0 = Debug|Any CPU
+		{B034D2C4-C7A1-49FE-BCB0-DDB3DDD42700}.Release|x86.ActiveCfg = Release|Any CPU
+		{B034D2C4-C7A1-49FE-BCB0-DDB3DDD42700}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
